@@ -1,0 +1,13 @@
+---
+- path: "/urlshort"
+  url: "https://github.com/gophercises/urlshort"
+- path: "/urlshort-final"
+  url: "https://github.com/gophercises/urlshort/tree/final"
+- path: "/my-urlshort"
+  url: "https://github.com/turnes/learning-golang/tree/main/Gophercises/URLShortener"
+- path: "/gh"
+  url: "https://github.com/turnes"
+- path: "/blog"
+  url: "https://turnes.com.br"
+- path: "/gophercises"
+  url: "https://gophercises.com/"
